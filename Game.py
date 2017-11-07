@@ -1,7 +1,6 @@
 import pygame
-
 pygame.init()
-
+ferahgasdgswergaefaw
 BLACK = [0, 0, 0]
 
 SCREEN_WIDTH = 600
